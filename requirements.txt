@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+deepface
+python-multipart
+email-validator
+aiofiles
+stripe
+matplotlib
